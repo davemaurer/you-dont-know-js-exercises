@@ -30,14 +30,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program-execution.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="program-execution.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/up-and-going/program-execution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise-one.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/up-and-going/exercise-one.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,6 +59,7 @@
       <list>
         <option value="$PROJECT_DIR$/up-and-going/statements-and-expressions.js" />
         <option value="$PROJECT_DIR$/up-and-going/program-execution.js" />
+        <option value="$PROJECT_DIR$/up-and-going/exercise-one.js" />
       </list>
     </option>
   </component>
@@ -132,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473303808261</updated>
-      <workItem from="1473303812290" duration="3238000" />
+      <workItem from="1473303812290" duration="3690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3238000" />
+    <option name="totallyTimeSpent" value="3690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-227" y="-1177" width="1920" height="784" extended-state="0" />
@@ -188,11 +199,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/up-and-going/program-execution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/up-and-going/exercise-one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
